@@ -1,5 +1,7 @@
 ## 👩‍💻 Olá, mundo! Seja bem-vindo(a) ao meu GitHub!👋
 
+Certificada em [GitHub Foundations](https://www.credly.com/badges/4b4467ef-dcc5-42e8-b025-10b1a131c2b2/public_url)
+
 <!--
 **bbarrosomoreira/bbarrosomoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
